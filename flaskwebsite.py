@@ -1,4 +1,5 @@
 from flask import Flask, redirect, url_for, render_template
+import project_dict
 
 app = Flask(__name__)
 
@@ -9,7 +10,7 @@ def home():
 
 @app.route("/portfolio")
 def projects():
-    return render_template("portfolio.html")
+    return render_template("projects.html",project = project_dict.project )
 
 @app.route("/blog")
 def blog():
