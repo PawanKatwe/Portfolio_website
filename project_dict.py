@@ -14,6 +14,11 @@ project = [
  "description":'This is a automated sudoku solver with the help of python. It takes inputes in the form of nested list with blank spaces as 0',
  "github":'https://github.com/PawanKatwe/sudoku_Solver',
  "app":'no'
+},
+{"img_link":'portfolio_img/kmeans.jpg',
+ "description":'The K-means clustering algorithm is used to find groups which have not been explicitly labeled in the data. This can be used to confirm business assumptions about what types of groups exist or to identify unknown groups in complex data sets',
+ "github":'https://github.com/PawanKatwe/Credit-Card-Customer-Clustering',
+ "app":'no'
 }
 
 
