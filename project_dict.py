@@ -20,11 +20,12 @@ project = [
  "github":'https://github.com/PawanKatwe/Credit-Card-Customer-Clustering',
  "app":'no'
 }
-
-
-
-
-
+{"img_link":'portfolio_img/youtube.png',
+ "description":'You can get stats about any youtube channel their perfomance of last 30 videos based on like,views and commetns also analyze of comments of particuler video',
+ "github":'https://github.com/PawanKatwe/YouTube-dashboard',
+ "app":'https://ytdashboard.herokuapp.com/'
+}
 
 ]
+
 
